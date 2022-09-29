@@ -1,0 +1,24 @@
+.para {
+  font-size: 18px;
+  color: #64748b;
+}
+
+.not-found {
+  width: 400px;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80vh;
+  justify-content: center;
+}
+
+.not-found-heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'roboto';
+  margin-bottom: 10px;
+}

@@ -1,0 +1,79 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.oops-error {
+  font-size: 30px;
+  color: #4656a1;
+  font-family: 'roboto';
+}
+
+.failure-error-msg {
+  font-size: 18px;
+  color: #4656a1;
+  font-family: 'roboto';
+}
+.retry-btn {
+  cursor: pointer;
+  background-color: #4656a1;
+  height: 32px;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.failure-view {
+  width: 500px;
+  height: 600px;
+}
+
+.all-courses {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  margin-left: 60px;
+}
+
+.heading {
+  font-size: 40px;
+  font-family: 'roboto';
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 60px;
+}
+
+.list {
+  list-style-type: none;
+  margin-right: 20px;
+  margin-right: 130px;
+  margin-bottom: 60px;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  font-size: 20px;
+  color: #000000;
+}
+
+.logo {
+  width: 80px;
+}
+
+.loader-container {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

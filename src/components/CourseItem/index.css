@@ -1,0 +1,27 @@
+.course-image {
+  height: 500px;
+  margin-right: 30px;
+}
+
+.course-container {
+  display: flex;
+}
+
+.course-heading {
+  font-size: 40px;
+  font-family: 'roboto';
+  color: #1e293b;
+}
+
+.details-container {
+  width: 80%;
+  margin: auto;
+  padding: 50px;
+}
+
+.course-description {
+  font-size: 18px;
+  color: #1e293b;
+  font-family: 'roboto';
+  line-height: 2;
+}

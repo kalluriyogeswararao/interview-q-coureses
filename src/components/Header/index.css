@@ -1,0 +1,10 @@
+.nav-container {
+  background-color: #f1f5f9;
+  padding: 15px;
+}
+
+.website-logo {
+  width: 180px;
+  margin-left: 50px;
+  cursor: pointer;
+}
